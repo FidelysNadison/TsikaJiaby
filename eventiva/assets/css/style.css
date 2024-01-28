@@ -26855,7 +26855,7 @@ a {
 
 .header-3.sticky {
   margin-top: 0;
-  background-color: var(--bs-white);
+  background-color: rgb(140,29,164);
   box-shadow: rgba(0, 0, 0, 0.13) 0px 2px 4px;
 }
 
