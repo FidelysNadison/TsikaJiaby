@@ -26809,7 +26809,7 @@ a {
 }
 
 .header-3.transparent-header .shop-icon-xl, .header-3.transparent-header .offcanvas-menu-icon {
-  color: #8c1da4;
+  color: #111111;
 }
 
 .header-3.transparent-header .logo-custom-light {
@@ -30202,7 +30202,7 @@ a {
 
 .dark-wrapper-bg {
   --bs-dark-wrapper-bg: #28303F;
-  padding: 70px 50px;
+  padding: 30px 50px;
   border-radius: 30px;
   background-color: var(--bs-dark-wrapper-bg);
   max-width: 1420px;
