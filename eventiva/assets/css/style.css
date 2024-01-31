@@ -1962,7 +1962,7 @@ progress {
   }
   .col-lg-5 {
     flex: 0 0 auto;
-    width: 41.666667%;
+    width: 40%;
   }
   .col-lg-6 {
     flex: 0 0 auto;
@@ -30205,7 +30205,7 @@ a {
   padding: 30px 50px;
   border-radius: 30px;
   background-color: var(--bs-dark-wrapper-bg);
-  max-width: 1420px;
+  max-width: 720px;
   width: 100%;
   margin: 0 auto;
 }
