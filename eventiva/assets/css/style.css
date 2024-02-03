@@ -28,7 +28,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #04000A;
-  --bs-primary: #0d6efd;
+  --bs-primary: #7b0087;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -36,7 +36,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #04000A;
-  --bs-primary-rgb: 13, 110, 253;
+  --bs-primary-rgb: 123, 0, 135;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -4199,7 +4199,7 @@ fieldset:disabled .btn {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #0d6efd;
+  --bs-btn-bg: #7b0087;
   --bs-btn-border-color: #0d6efd;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #0b5ed7;
@@ -26182,8 +26182,12 @@ a {
   margin-bottom: 3px;
 }
 
-.star-icon-big, .star-icon-small {
-  color: var(--bs-primary);
+.star-icon-big {
+  color: #7b0087;
+}
+
+.star-icon-small {
+  color: #f8e603;
 }
 
 .author-wrapper {
@@ -26642,8 +26646,8 @@ a {
 .home-7 {
   --bs-secondary: #FCA311;
   --bs-secondary-rgb: 252, 163, 17;
-  --bs-primary: #4361EE;
-  --bs-primary-rgb: 67, 97, 238;
+  --bs-primary: #007419;
+  --bs-primary-rgb: 123, 0, 135;
   --bs-headings-color-light: #CECCDA;
   --bs-navbar-toggler-color: #333;
   --bs-link-hover-color-rgb: var(--bs-primary);
@@ -27479,6 +27483,7 @@ a {
 
 .hero-7 .odometer-value {
   font-family: 'Plus Jakarta Sans' , sans-serif;
+  color: #007419;
 }
 
 .hero-7 .hero-wrapper {
@@ -27514,7 +27519,7 @@ a {
 }
 
 .hero-image-mask img {
-  border-radius: 120px;
+  border-radius: 40px;
 }
 
 .hero-8 .hero-wrapper {
@@ -30201,11 +30206,11 @@ a {
 }
 
 .dark-wrapper-bg {
-  --bs-dark-wrapper-bg: #28303F;
+  --bs-dark-wrapper-bg: #fae707;
   padding: 30px 50px;
   border-radius: 30px;
   background-color: var(--bs-dark-wrapper-bg);
-  max-width: 720px;
+  max-width: 80%;
   width: 100%;
   margin: 0 auto;
 }
@@ -30410,8 +30415,8 @@ a {
 }
 
 .btn-primary {
-  --bs-btn-bg: var(--bs-primary);
-  --bs-btn-border-color: var(--bs-primary);
+  --bs-btn-bg: #7b0087;
+  --bs-btn-border-color: #7b0087;
   --bs-btn-hover-border-color: var(--bs-primary);
   --bs-btn-active-border-color: var(--bs-primary);
   --bs-btn-border-width: 2px;
