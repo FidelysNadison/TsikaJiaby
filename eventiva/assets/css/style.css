@@ -26191,7 +26191,7 @@ a {
 }
 
 .author-wrapper {
-  --bs-author-wrapper-bg: #E2E0EA;
+  --bs-author-wrapper-bg: #007419;
   border-radius: 75px;
   background-color: var(--bs-author-wrapper-bg);
   width: 400px;
@@ -27376,9 +27376,9 @@ a {
 .social-links {
   position: absolute;
   right: 60px;
-  bottom: 195px;
+  bottom: 0;
   display: flex;
-  flex-direction: column;
+  flex-direction:row-reverse;
   gap: 20px;
 }
 
