@@ -25936,7 +25936,7 @@ a {
   --bs-navbar-bg-color: rgba(38, 31, 48, 0.02);
   --bs-navbar-shadow-color: rgba(0, 0, 0, 0.39);
   --bs-navbar-border-color-2: #fff;
-  --bs-navbar-bg-color-2: rgba(255, 255, 255, 0.10);
+  --bs-navbar-bg-color-2: rgba(255, 255, 255, 0.50);
   --bs-navbar-shadow-color-2: rgba(0, 0, 0, 0.10);
   --bs-separator-color: rgba(136, 132, 146, 0.20);
   --bs-custom-inner-bg: #EBEDFF;
