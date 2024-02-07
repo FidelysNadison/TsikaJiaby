@@ -27677,7 +27677,7 @@ a {
 }
 
 .banner-1 {
-  --bg-parallax-image: url(../images/banner-1.jpg);
+  --bg-parallax-image: url(../images/banner-stand.jpg);
   --bg-parallax-opacity: 1;
   --bs-banner-heading-color: #fff;
   padding: 250px 0 70px 0;
@@ -27698,7 +27698,11 @@ a {
 }
 
 .banner-1.banner-2 {
-  --bg-parallax-image: url(../images/banner-2.jpg);
+  --bg-parallax-image: url(../images/banner-billet.png);
+}
+
+.banner-1.banner-3 {
+  --bg-parallax-image: url(../images/banner-infos.png);
 }
 
 .ticket-1 {
